@@ -17,7 +17,10 @@ Migration your Org-roam to its updated version 2
 ** headline is a link to other notes
 
 * how the time stamp is addressed?
+  Is there a way
 
 * how to deal with ID
-
+  Better to explicitly set the id location
+  https://github.com/randomwangran/my-profile/blob/master/dotfiles/doom-emacs/config.org#94-org-mode-map--after-org-setting
 * possible integration with Org-brain
+  https://github.com/Kungsgeten/org-brain/issues/340
