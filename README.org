@@ -1,2 +1,23 @@
-# Voyager-2.el
+Voyager-2.el
+
 Migration your Org-roam to its updated version 2
+
+* how to create new nodes?
+
+  If the user create a headline within an Org-file, then the database
+  will update the information accordingly.
+
+  If user does not know where to put the new notes, a node will be
+  generated using a new file just like what version-1 did.
+
+* how to deal with headline
+** headline is a http link
+   It might be included `TODO` state
+** headline is empty
+** headline is a link to other notes
+
+* how the time stamp is addressed?
+
+* how to deal with ID
+
+* possible integration with Org-brain
