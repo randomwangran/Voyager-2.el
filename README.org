@@ -30,3 +30,7 @@ Migration your Org-roam to its updated version 2
 
 
   https://github.com/Kungsgeten/org-brain/issues/340
+
+* other aspects
+** DONE nyan-mode-line
+https://github.com/randomwangran/nyan-mode/commit/fa012a5af22b3def0440f97790c66cf4b60199e0
